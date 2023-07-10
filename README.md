@@ -25,9 +25,9 @@ As a healthcare company's security professional, I regularly update a file to ma
 
 <h2>Algorithm for file updates in Python Walk-through:</h2>
 
-<img src="https://i.imgur.com/LaUJ2gc.jpg" height="80%" width="80%" alt="python algorithm"/>
-<img src="https://i.imgur.com/UpnsCrS.jpg" height="80%" width="80%" alt="python algorithm"/>
-<img src="https://i.imgur.com/7wq2gWR.jpg" height="80%" width="80%" alt="python algorithm"/>
-<img src="https://i.imgur.com/VQcQDs8.jpg" height="80%" width="80%" alt="python algorithm"/>
-<img src="https://i.imgur.com/KX7VVWf.jpg" height="80%" width="80%" alt="python algorithm"/>
+<img src="https://i.imgur.com/dhIPw3e.jpg" height="80%" width="80%" alt="python algorithm"/>
+<img src="https://i.imgur.com/rMjGIBF.jpg" height="80%" width="80%" alt="python algorithm"/>
+<img src="https://i.imgur.com/HQqed5p.jpg" height="80%" width="80%" alt="python algorithm"/>
+<img src="https://i.imgur.com/1RE2jAn.jpg" height="80%" width="80%" alt="python algorithm"/>
+<img src="https://i.imgur.com/knVtjd6.jpg" height="80%" width="80%" alt="python algorithm"/>
 
